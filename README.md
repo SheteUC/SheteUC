@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [atharvshete-portfolio.netlify.app](https://atharvshete-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://atharvshete-portfolio.netlify.app/)
 
 - 📫 How to reach me **atharvshete10@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/atharvshete/](https://www.linkedin.com/in/atharvshete/)
+- 📄 Know about my experiences at [my linkedin](https://www.linkedin.com/in/atharvshete/)
 
 - ⚡ Fun fact **I’m a foodie. I love cooking and exploring new restaurants.**
 
