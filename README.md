@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [https://atharvshete-portfolio.netlify.app/](https://atharvshete-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://atharvshete-portfolio.netlify.app/](atharvshete-portfolio.netlify.app)
 
 - 📫 How to reach me **atharvshete10@gmail.com**
 
