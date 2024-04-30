@@ -1,18 +1,36 @@
-<h1 align="center">Hi 👋, I'm Atharv Shete</h1>
-<h3 align="center">I’m a computer nerd who digs coding and exploring. I like to help students, work with cool startups, and explore the world. I love having fun chats over coffee or tea. Wanna hang out?</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+<div align="center">
 
-- 🌱 I’m currently learning **Astro**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&random=false&width=435&lines=Hi!+Atharv+Shete+here.)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://atharvshete-portfolio.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Junior+%40+University+of+Cincinnati;Senior+Venture+Analyst;5%2B+years+coding+experience)](https://git.io/typing-svg)
 
-- 📫 How to reach me **atharvshete10@gmail.com**
+</div>
 
-- 📄 Know about my experiences at [my linkedin](https://www.linkedin.com/in/atharvshete/)
+## 🧐 About Me
+ 📚 Undergraduate Computer Science student @ University of Cincinnati
+ <br />
+ <br />
+ 💻 Computer nerd who thrives on coding and exploration
+ <br />
+ <br />
+ 🛠️ Passionate about aiding students, collaborating with innovative startups, and uncovering the wonders of the world
+ <br />
+ <br />
+ 🎭 Enthusiastic about Anime, Manga, and K-dramas; occasional movie-goer with a recent favorite being Godzilla Minus One 
+ <br />
+ <br />
+ ⚡ Fun fact: A dedicated foodie, I revel in both cooking at home and embarking on culinary adventures to discover new restaurants
 
-- ⚡ Fun fact **I’m a foodie. I love cooking and exploring new restaurants.**
+## 🧰 Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=html,py,c,cpp,css,sass,js,bootstrap,sklearn,react,d3,astro,django,git,github,githubactions,gitlab,haskell,java,matlab,postgres,rust,netlify,vscode,anaconda,figma,notion&perline=9)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharvshete/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/727578414466203648" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://atharvshete-portfolio.netlify.app/"><img width="32px" alt="atharvshete-portfolio.netlify.app" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+</p>
