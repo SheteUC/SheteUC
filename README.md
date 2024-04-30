@@ -24,7 +24,7 @@
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,py,c,cpp,css,sass,js,bootstrap,sklearn,react,d3,astro,django,git,github,githubactions,gitlab,haskell,java,matlab,postgres,rust,netlify,vscode,anaconda,figma,notion&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,py,c,cpp,css,sass,js,bootstrap,sklearn,react,d3,astro,django,git,github,githubactions,gitlab,haskell,java,matlab,postgres,rust,netlify,vscode,anaconda,figma,notion&perline=12)](https://skillicons.dev)
 
 ---
 <p align="center">
