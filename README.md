@@ -32,5 +32,5 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/727578414466203648" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://atharvshete-portfolio.netlify.app/"><img width="32px" alt="atharvshete.vercel.app" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://atharvshete.vercel.app"><img width="32px" alt="Website" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
